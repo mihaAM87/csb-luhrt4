@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["absentNumber","array","require"],"mappings":";;;AAIA,aAFO,SAASA,EAAaC,GAC3B,OAAO,EACT,OAAA,eAAA,QAAA,aAAA,CAAA,OAAA,IAAA,QAAA,aAAA,EAJAC,QAAA","file":"src.d33488be.js","sourceRoot":"..","sourcesContent":["import \"./styles.css\";\n\nexport function absentNumber(array) {\n  return 1;\n}\n"]}
